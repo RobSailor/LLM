@@ -1,6 +1,6 @@
-!pip3 install huggingface-hub>=0.17.1
-!pip install ctransformers
-!pip install xlrd
+#pip3 install huggingface-hub>=0.17.1
+#pip install ctransformers
+#pip install xlrd
 
 from ctransformers import AutoModelForCausalLM
 import pandas as pd
